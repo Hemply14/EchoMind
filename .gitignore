@@ -1,0 +1,7 @@
+# Ignore cached models
+data/models/
+__pycache__/
+*.bin
+*.pt
+*.pkl
+*.safetensors
