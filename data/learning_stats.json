@@ -1,0 +1,1828 @@
+{
+  "total_topics_learned": 523,
+  "last_learning_session": "2025-10-25T04:51:39.703559+00:00",
+  "topics_learned": [
+    {
+      "topic": "Thermodynamics",
+      "timestamp": "2025-10-25T04:35:40.027362+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Inorganic Chemistry",
+      "timestamp": "2025-10-25T04:35:44.074106+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Rust programming language",
+      "timestamp": "2025-10-25T04:35:48.070911+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Organic Chemistry",
+      "timestamp": "2025-10-25T04:35:52.581334+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "NFTs basics",
+      "timestamp": "2025-10-25T04:35:59.466632+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "TypeScript programming",
+      "timestamp": "2025-10-25T04:36:04.078261+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Budgeting apps",
+      "timestamp": "2025-10-25T04:36:09.120635+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Hacker culture",
+      "timestamp": "2025-10-25T04:36:14.040805+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Magic: The Gathering",
+      "timestamp": "2025-10-25T04:36:18.617876+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Boxing workouts",
+      "timestamp": "2025-10-25T04:36:22.896679+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Study Techniques",
+      "timestamp": "2025-10-25T04:36:26.955613+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Electromagnetism",
+      "timestamp": "2025-10-25T04:36:31.027670+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "DIY projects",
+      "timestamp": "2025-10-25T04:36:35.334548+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Minimalism lifestyle",
+      "timestamp": "2025-10-25T04:36:39.196939+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "MySQL database",
+      "timestamp": "2025-10-25T04:36:43.231427+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Human Anatomy",
+      "timestamp": "2025-10-25T04:36:47.251261+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "C++ programming",
+      "timestamp": "2025-10-25T04:36:51.674081+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Scientific discoveries",
+      "timestamp": "2025-10-25T04:36:55.551426+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "One Piece anime",
+      "timestamp": "2025-10-25T04:36:59.333487+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Genetics",
+      "timestamp": "2025-10-25T04:37:03.634600+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Robotics basics",
+      "timestamp": "2025-10-25T04:37:07.757301+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Friends TV show",
+      "timestamp": "2025-10-25T04:37:11.567308+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "The Office US TV show",
+      "timestamp": "2025-10-25T04:37:15.590325+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Brain-Computer Interfaces",
+      "timestamp": "2025-10-25T04:37:19.670705+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "C programming language",
+      "timestamp": "2025-10-25T04:37:23.785617+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Git version control",
+      "timestamp": "2025-10-25T04:37:28.361864+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Evolutionary Biology",
+      "timestamp": "2025-10-25T04:37:32.472956+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Docker containerization",
+      "timestamp": "2025-10-25T04:37:37.209792+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Marvel Cinematic Universe MCU",
+      "timestamp": "2025-10-25T04:37:41.442386+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Meditation and Mindfulness",
+      "timestamp": "2025-10-25T04:37:45.338031+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Escape Rooms",
+      "timestamp": "2025-10-25T04:37:49.735159+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Cognitive Science",
+      "timestamp": "2025-10-25T04:37:53.899291+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Investing and Stocks",
+      "timestamp": "2025-10-25T04:37:58.438520+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Puzzle games",
+      "timestamp": "2025-10-25T04:38:02.295037+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Molecular Biology",
+      "timestamp": "2025-10-25T04:38:06.265143+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Death Note anime",
+      "timestamp": "2025-10-25T04:38:11.001908+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Kubernetes orchestration",
+      "timestamp": "2025-10-25T04:38:15.194512+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Quantum Computing",
+      "timestamp": "2025-10-25T04:38:19.250417+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Trading Card Games",
+      "timestamp": "2025-10-25T04:38:24.061411+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Wearable tech",
+      "timestamp": "2025-10-25T04:38:28.112806+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Supabase platform",
+      "timestamp": "2025-10-25T04:38:32.273510+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Networking and LinkedIn tips",
+      "timestamp": "2025-10-25T04:38:36.192449+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Card games",
+      "timestamp": "2025-10-25T04:38:40.182877+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "REST APIs",
+      "timestamp": "2025-10-25T04:38:44.450473+00:00",
+      "items_learned": 6,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Technology trends 2024",
+      "timestamp": "2025-10-25T04:38:48.427782+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Special Relativity",
+      "timestamp": "2025-10-25T04:38:53.632559+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "ESports",
+      "timestamp": "2025-10-25T04:38:58.191828+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Futuristic cars",
+      "timestamp": "2025-10-25T04:39:02.334642+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Anime music videos AMVs",
+      "timestamp": "2025-10-25T04:39:07.353649+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Journaling",
+      "timestamp": "2025-10-25T04:39:11.310994+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Physiology",
+      "timestamp": "2025-10-25T04:39:15.718426+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Node.js runtime",
+      "timestamp": "2025-10-25T04:39:20.251506+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "The Legend of Korra",
+      "timestamp": "2025-10-25T04:39:24.820504+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Black Mirror series",
+      "timestamp": "2025-10-25T04:39:29.808999+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Differential Equations",
+      "timestamp": "2025-10-25T04:39:34.495542+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Linux operating system",
+      "timestamp": "2025-10-25T04:39:39.476069+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "CSS styling",
+      "timestamp": "2025-10-25T04:39:43.936035+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Sleep optimization",
+      "timestamp": "2025-10-25T04:39:48.405317+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "GitHub platform",
+      "timestamp": "2025-10-25T04:39:52.909318+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Psychology basics",
+      "timestamp": "2025-10-25T04:39:57.168178+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "DIY electronics",
+      "timestamp": "2025-10-25T04:40:01.869403+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Mixed Reality MR",
+      "timestamp": "2025-10-25T04:40:06.772607+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Historical inventions",
+      "timestamp": "2025-10-25T04:40:11.604573+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Space Exploration",
+      "timestamp": "2025-10-25T04:40:15.864497+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Redis caching",
+      "timestamp": "2025-10-25T04:40:20.725399+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Cybersecurity basics",
+      "timestamp": "2025-10-25T04:40:25.377627+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Pomodoro technique",
+      "timestamp": "2025-10-25T04:40:31.284703+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Electric vehicles",
+      "timestamp": "2025-10-25T04:40:35.811651+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Cryptography",
+      "timestamp": "2025-10-25T04:40:40.915916+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Gaming culture",
+      "timestamp": "2025-10-25T04:40:46.266429+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Evening routines",
+      "timestamp": "2025-10-25T04:40:51.164146+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Dystopian Novels",
+      "timestamp": "2025-10-25T04:40:56.188089+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Optics and Light",
+      "timestamp": "2025-10-25T04:41:00.615916+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Number Theory",
+      "timestamp": "2025-10-25T04:41:05.374312+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Naruto anime",
+      "timestamp": "2025-10-25T04:41:10.052077+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Augmented Reality AR",
+      "timestamp": "2025-10-25T04:41:15.043557+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Indie games",
+      "timestamp": "2025-10-25T04:41:19.856509+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "The Witcher series",
+      "timestamp": "2025-10-25T04:41:24.618271+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Angular framework",
+      "timestamp": "2025-10-25T04:41:29.133482+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Go board game strategies",
+      "timestamp": "2025-10-25T04:41:33.696109+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Java programming",
+      "timestamp": "2025-10-25T04:41:38.537865+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Anime OVAs and Movies",
+      "timestamp": "2025-10-25T04:41:43.248779+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Dystopian art",
+      "timestamp": "2025-10-25T04:41:47.761228+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "JavaScript programming",
+      "timestamp": "2025-10-25T04:41:52.346988+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Firebase platform",
+      "timestamp": "2025-10-25T04:41:57.007752+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Rick and Morty TV series",
+      "timestamp": "2025-10-25T04:42:01.669756+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "FastAPI framework",
+      "timestamp": "2025-10-25T04:42:06.760568+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Futurism and Technology Trends",
+      "timestamp": "2025-10-25T04:42:11.341404+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "GraphQL API",
+      "timestamp": "2025-10-25T04:42:16.247455+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "DC Universe",
+      "timestamp": "2025-10-25T04:42:21.472806+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "AI Ethics",
+      "timestamp": "2025-10-25T04:42:27.288425+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Climate Change",
+      "timestamp": "2025-10-25T04:42:33.704391+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Cardio routines",
+      "timestamp": "2025-10-25T04:42:38.965226+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Avatar: The Last Airbender",
+      "timestamp": "2025-10-25T04:42:44.581630+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Classical Mechanics",
+      "timestamp": "2025-10-25T04:42:50.874303+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Cryptocurrency basics",
+      "timestamp": "2025-10-25T04:42:57.480743+00:00",
+      "items_learned": 6,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Star Wars saga",
+      "timestamp": "2025-10-25T04:43:02.946033+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Lord of the Rings",
+      "timestamp": "2025-10-25T04:43:09.411530+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Futuristic architecture",
+      "timestamp": "2025-10-25T04:43:15.907271+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "PostgreSQL database",
+      "timestamp": "2025-10-25T04:43:25.135797+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Westworld TV series",
+      "timestamp": "2025-10-25T04:43:33.620349+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Machine Learning",
+      "timestamp": "2025-10-25T04:43:38.552459+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Attack on Titan anime",
+      "timestamp": "2025-10-25T04:43:42.834828+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Digital art",
+      "timestamp": "2025-10-25T04:43:47.333344+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Bash scripting",
+      "timestamp": "2025-10-25T04:43:51.652121+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Studio Ghibli movies",
+      "timestamp": "2025-10-25T04:43:56.054295+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Probability and Statistics",
+      "timestamp": "2025-10-25T04:44:00.731061+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Svelte framework",
+      "timestamp": "2025-10-25T04:44:05.241516+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Generative AI",
+      "timestamp": "2025-10-25T04:44:10.254004+00:00",
+      "items_learned": 6,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Career planning",
+      "timestamp": "2025-10-25T04:44:15.144214+00:00",
+      "items_learned": 6,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Legendary programmers",
+      "timestamp": "2025-10-25T04:44:19.861098+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Personal Finance basics",
+      "timestamp": "2025-10-25T04:44:24.258790+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Strength training",
+      "timestamp": "2025-10-25T04:44:28.981379+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "HTML web development",
+      "timestamp": "2025-10-25T04:44:33.603410+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Intermittent Fasting",
+      "timestamp": "2025-10-25T04:44:38.557772+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Resume building",
+      "timestamp": "2025-10-25T04:44:42.792253+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Raspberry Pi projects",
+      "timestamp": "2025-10-25T04:44:47.147390+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Public Speaking",
+      "timestamp": "2025-10-25T04:44:51.784694+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Urban Legends",
+      "timestamp": "2025-10-25T04:44:56.627353+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Python programming language",
+      "timestamp": "2025-10-25T04:45:01.402309+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "New programming languages trends",
+      "timestamp": "2025-10-25T04:45:06.166448+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Data Structures",
+      "timestamp": "2025-10-25T04:45:10.931688+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Game of Thrones TV series",
+      "timestamp": "2025-10-25T04:45:16.010265+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Time Management",
+      "timestamp": "2025-10-25T04:45:21.165695+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Board game design",
+      "timestamp": "2025-10-25T04:45:25.800468+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Famous AI researchers",
+      "timestamp": "2025-10-25T04:45:30.428297+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Virtual communities",
+      "timestamp": "2025-10-25T04:45:35.080838+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Quantum internet",
+      "timestamp": "2025-10-25T04:45:39.509154+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Stranger Things 1980s references",
+      "timestamp": "2025-10-25T04:45:44.050939+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Astrophysics",
+      "timestamp": "2025-10-25T04:45:48.578641+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Black Holes",
+      "timestamp": "2025-10-25T04:45:53.575092+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Fullmetal Alchemist anime",
+      "timestamp": "2025-10-25T04:45:58.445595+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Virtual Reality VR",
+      "timestamp": "2025-10-25T04:46:02.850847+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Space Colonization theories",
+      "timestamp": "2025-10-25T04:46:08.101364+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Deep Learning",
+      "timestamp": "2025-10-25T04:46:13.624742+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "DARK TV series",
+      "timestamp": "2025-10-25T04:46:19.244063+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "React framework",
+      "timestamp": "2025-10-25T04:46:25.307298+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Urban exploration",
+      "timestamp": "2025-10-25T04:46:31.169747+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Breaking Bad TV series",
+      "timestamp": "2025-10-25T04:46:36.337278+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Hacking techniques ethical",
+      "timestamp": "2025-10-25T04:46:42.638287+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "SpaceX projects",
+      "timestamp": "2025-10-25T04:46:50.849734+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Dark Matter",
+      "timestamp": "2025-10-25T04:46:55.920112+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Travel hacks",
+      "timestamp": "2025-10-25T04:47:01.422254+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Learning new languages",
+      "timestamp": "2025-10-25T04:47:05.915230+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Harry Potter series",
+      "timestamp": "2025-10-25T04:47:10.768242+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Arduino projects",
+      "timestamp": "2025-10-25T04:47:15.515468+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Solar energy tech",
+      "timestamp": "2025-10-25T04:47:20.069766+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Motivation and Mindset",
+      "timestamp": "2025-10-25T04:47:24.612412+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Tiny houses",
+      "timestamp": "2025-10-25T04:47:29.340703+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Cyberpunk culture",
+      "timestamp": "2025-10-25T04:47:34.114558+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Cryptocurrency trends",
+      "timestamp": "2025-10-25T04:47:39.254037+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Django framework",
+      "timestamp": "2025-10-25T04:47:44.296851+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Latest AI developments 2024",
+      "timestamp": "2025-10-25T04:47:48.992307+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "AI and Neuroscience",
+      "timestamp": "2025-10-25T04:47:53.717524+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Particle Physics",
+      "timestamp": "2025-10-25T04:47:59.215931+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "NASA missions",
+      "timestamp": "2025-10-25T04:48:04.189636+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Chess strategies",
+      "timestamp": "2025-10-25T04:48:08.833221+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "MongoDB database",
+      "timestamp": "2025-10-25T04:48:13.992654+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Smart home tech",
+      "timestamp": "2025-10-25T04:48:18.595380+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Metaverse projects",
+      "timestamp": "2025-10-25T04:48:23.263935+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Medical breakthroughs 2024",
+      "timestamp": "2025-10-25T04:48:28.128334+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Renewable energy advances",
+      "timestamp": "2025-10-25T04:48:32.870098+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Neuroscience",
+      "timestamp": "2025-10-25T04:48:37.837975+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Morning routines",
+      "timestamp": "2025-10-25T04:48:42.544898+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "AI in movies",
+      "timestamp": "2025-10-25T04:48:47.229503+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "General Relativity",
+      "timestamp": "2025-10-25T04:48:52.128248+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Quantum Mechanics",
+      "timestamp": "2025-10-25T04:48:56.869105+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Renewable energy trends",
+      "timestamp": "2025-10-25T04:49:01.952413+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Linear Algebra",
+      "timestamp": "2025-10-25T04:49:06.703789+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Stress management",
+      "timestamp": "2025-10-25T04:49:11.290880+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Mythology Greek Norse Egyptian Hittite",
+      "timestamp": "2025-10-25T04:49:16.473677+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Cyberpunk 2077 game",
+      "timestamp": "2025-10-25T04:49:21.713872+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Money Heist TV series",
+      "timestamp": "2025-10-25T04:49:26.386045+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Physical Chemistry",
+      "timestamp": "2025-10-25T04:49:31.223236+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Golang programming",
+      "timestamp": "2025-10-25T04:49:35.725767+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Chaos Theory",
+      "timestamp": "2025-10-25T04:49:40.490038+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Self-discipline hacks",
+      "timestamp": "2025-10-25T04:49:45.595306+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "3D Printing",
+      "timestamp": "2025-10-25T04:49:51.100379+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Goal Setting",
+      "timestamp": "2025-10-25T04:49:55.739837+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Diet and Nutrition",
+      "timestamp": "2025-10-25T04:50:00.343488+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Vue.js framework",
+      "timestamp": "2025-10-25T04:50:05.151261+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Extreme sports",
+      "timestamp": "2025-10-25T04:50:09.718275+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Flask framework",
+      "timestamp": "2025-10-25T04:50:14.337078+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Calculus",
+      "timestamp": "2025-10-25T04:50:19.321778+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Space telescopes",
+      "timestamp": "2025-10-25T04:50:23.923227+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Productivity hacks",
+      "timestamp": "2025-10-25T04:50:28.625372+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Express.js framework",
+      "timestamp": "2025-10-25T04:50:33.145313+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Ancient Civilizations",
+      "timestamp": "2025-10-25T04:50:38.282146+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Biochemistry",
+      "timestamp": "2025-10-25T04:50:43.105462+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Mars Colonization",
+      "timestamp": "2025-10-25T04:50:47.851506+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "How I Met Your Mother TV show",
+      "timestamp": "2025-10-25T04:50:53.161393+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "The Mandalorian TV series",
+      "timestamp": "2025-10-25T04:50:58.363377+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Algorithms",
+      "timestamp": "2025-10-25T04:51:03.359691+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Role-playing games RPGs",
+      "timestamp": "2025-10-25T04:51:09.092487+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Natural Language Processing NLP",
+      "timestamp": "2025-10-25T04:51:15.283864+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Internet of Things IoT",
+      "timestamp": "2025-10-25T04:51:20.383675+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Ecology and Environment",
+      "timestamp": "2025-10-25T04:51:25.308037+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Space exploration news",
+      "timestamp": "2025-10-25T04:51:29.940779+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Discrete Mathematics",
+      "timestamp": "2025-10-25T04:51:34.547770+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    },
+    {
+      "topic": "Stranger Things TV series",
+      "timestamp": "2025-10-25T04:51:39.703574+00:00",
+      "items_learned": 3,
+      "sources": [
+        "duckduckgo"
+      ],
+      "type": "scheduled"
+    }
+  ],
+  "discovered_topics": [
+    {
+      "topic": "convert it into english",
+      "mention_count": 1
+    },
+    {
+      "topic": "what is television",
+      "mention_count": 1
+    },
+    {
+      "topic": "television",
+      "mention_count": 1
+    },
+    {
+      "topic": "what is ai ethics",
+      "mention_count": 1
+    },
+    {
+      "topic": "ai ethics",
+      "mention_count": 1
+    }
+  ]
+}
